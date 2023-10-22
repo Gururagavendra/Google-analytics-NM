@@ -9,3 +9,11 @@ Integrated G-analytics to an website as a project from Nan Mudhalvan
   2. The integration of Google Analytics allowed Kidscorp to make data-driven decisions and optimize their online marketing strategies.
 
   3. Demonstrated the ability to work with third-party tools and services, showcasing adaptability and a commitment to continuous learning in the field of web development.
+
+
+#Contributors
+1.Gururagavendra(Leader)
+2.Kiran
+3.Vignesh
+4.Gokulraj
+5.Manoharan
