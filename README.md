@@ -1,7 +1,7 @@
 # Google-analytics-NM
 Integrated G-analytics to an website as a project from Nan Mudhalvan
-## website link: www.kidscorp.in
-## Integration video: https://drive.google.com/file/d/1sfNMKNKR10_A16GKFRSwRqNGAKUh6H-K/view?usp=share_link
+ -- website link: www.kidscorp.in
+ -- Integration video: https://drive.google.com/file/d/1sfNMKNKR10_A16GKFRSwRqNGAKUh6H-K/view?usp=share_link
 
 # Nanmudhalvan Google Analytics Integration Project
 
